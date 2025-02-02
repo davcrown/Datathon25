@@ -5,5 +5,7 @@ In order to complete our model, we have a python file, Work (2).ipynb. We also c
 
 References:
 Park, S. M. (2021, August 16). EEG machine learning. Retrieved from osf.io/8bsv
+
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
 https://www.machinelearningplus.com/machine-learning/an-introduction-to-gradient-boosting-decision-trees/#Why-Boosting?
